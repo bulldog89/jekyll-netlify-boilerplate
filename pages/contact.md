@@ -4,12 +4,16 @@ title: Contact
 permalink: /contact
 section: contact
 intro_paragraph: |-
+  We can be found at the following location:
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+
+
+  NotNeeded Inc.
+
+  123 W Park Avenue #8765
+
+  New York, NY 10003
 ---
+Our phone number is (212) 555-1212
 
-**Send us a message**
+[test.notneeded.ml](test.notneeded.ml)
