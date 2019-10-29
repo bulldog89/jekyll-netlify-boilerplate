@@ -14,6 +14,6 @@ intro_paragraph: |-
 
   New York, NY 10003
 ---
-Our phone number is (202( 555-1212
+Our phone number is (212) 555-1212
 
 [test.notneeded.ml](test.notneeded.ml)
